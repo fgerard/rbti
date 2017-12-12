@@ -1,0 +1,16 @@
+Liga para google docs api:
+
+https://developers.google.com/sheets/api/quickstart/java
+
+1. Creas tu hoja y lo que está después de "/d" es el key de la hoja
+2. https://docs.google.com/spreadsheets/d/<sheet-id>/edit#gid=0
+3. En la consola de google: https://console.cloud.google.com
+4. crear token:
+4.1 - API Services
+4.1.1 - Credenciales
+4.1.2 - OAuth concent screen
+
+Create credential OAuth client despues de llenar el OAuth concent screen_name
+
+5. Escoger 'Other' en tipo Client ID
+6. Ver comentarios en archivo 
